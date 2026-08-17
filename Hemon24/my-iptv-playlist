@@ -211,6 +211,71 @@ http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",DBC টিভি 🇧🇩 
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
 
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", Ananda-tv 🇧🇩
+https://playztv-apps.pages.dev/ananda-tv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Asian-tv
+https://playztv-apps.pages.dev/asian-tv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", A Sports HD
+https://playztv-apps.pages.dev/asports/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",ATN-Bangla
+https://playztv-apps.pages.dev/atn-bangla/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",ATN-News
+https://playztv-apps.pages.dev/atn-news/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ", bijoy-tv
+https://playztv-apps.pages.dev/bijoy-tv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",boishakhi-tv
+https://playztv-apps.pages.dev/boishakhi-tv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",btv-world
+https://playztv-apps.pages.dev/btv-world/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",btv
+https://playztv-apps.pages.dev/btv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Channel-9
+https://playztv-apps.pages.dev/channel-9/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Channel-i
+https://playztv-apps.pages.dev/channel-i/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",DBC-News
+https://playztv-apps.pages.dev/dbc-news/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Sesh-TV
+https://playztv-apps.pages.dev/desh-tv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",duronto-tv
+https://playztv-apps.pages.dev/duronto-tv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Ekattor-tv
+https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Gazi_tv
+https://playztv-apps.pages.dev/gazi_tv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",jamuna-tv
+https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",maasranga-tv
+https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",my-tv
+https://playztv-apps.pages.dev/my-tv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",ntv
+https://playztv-apps.pages.dev/ntv/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",willow
+https://playztv-apps.pages.dev/willow/index.m3u8
+
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",zee-bangla
+https://playztv-apps.pages.dev/zee-bangla/index.m3u8
 
 
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/d3j5T2F8/Cartoon-Network.jpg",BBC Cbeebies 
