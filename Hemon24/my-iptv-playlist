@@ -47,6 +47,14 @@ https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.clo
 https://playztv-apps.pages.dev/asports/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Playztv-apps
 https://playztv-apps.pages.dev/willow/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 1 HD 
+https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ten_1_HD_ HD 
+https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ten_2_HD_ HD 
+https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ten_5_HD_ HD 
+https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",PTV Sports HD B
 https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785582200018
@@ -80,22 +88,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Motor Vision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png" group-title="Cricket 🏏",Sony Ten 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1786803687:KeyName=prod_linear:Signature=79kU1kE8ne91zM1o4o4G6Tm2lPiorvdZVjmP9RPbiU_wBW575UJNQUZd-jC8wvlEjEhrVbyPjLn__LMLC-1KCQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png" group-title="Cricket 🏏",Sony Ten 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1786803687:KeyName=prod_linear:Signature=79kU1kE8ne91zM1o4o4G6Tm2lPiorvdZVjmP9RPbiU_wBW575UJNQUZd-jC8wvlEjEhrVbyPjLn__LMLC-1KCQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkK3Mszq/20240823_024219.png" group-title="Cricket 🏏",Sony Ten 3
-
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png",Sony Ten 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; Redmi S2 Build/PKQ1.181203.001) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.7049.79 Mobile Safari/537.36
-#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29t:Expires=1786803687:KeyName=prod_linear:Signature=79kU1kE8ne91zM1o4o4G6Tm2lPiorvdZVjmP9RPbiU_wBW575UJNQUZd-jC8wvlEjEhrVbyPjLn__LMLC-1KCQ"}
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8
 
 ########################## Football 🛜 ##########################
 #EXTINF:-1 tvg-logo="" group-title="Football",Astro EPL 2 HD
