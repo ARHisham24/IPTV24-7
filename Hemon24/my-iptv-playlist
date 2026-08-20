@@ -68,24 +68,6 @@ https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785582200018
 
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD 
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809397.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Sports HD 
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809386.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", WILLOW CRICKET EXTRA HD
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809387.m3u8
-#EXTINF:-1 tvg-id="tapmad-13219" tvg-logo=" " group-title="Cricket 🏏",Willow Extra Live 
-http://27.124.71.27/Willow_Extra/index.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Unite8 sports 1
-http://103.155.18.186:8000/play/a125/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",  Unite8 sports 2
-http://103.155.18.186:8000/play/a126/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://shorturl.at/77pDH", Sky Sports
-https://atc.hopto.org/sly-sprts-cricket-hd-sport/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Fox Sports 501
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19146/index.m3u8
-
 #EXTINF:-1 tvg-id="DAZN FAST.de" tvg-logo="https://epg.ovh/logo/DAZN+Fast.png" group-title="Cricket 🏏",DAZN FAST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
