@@ -37,6 +37,12 @@ https://stream.spicefmbd.com/stream.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",India Tour of Sri Lanka 2026
 
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",PK Sports HD
+https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",PK Sports HD
+https://live20.bozztv.com/akamaissh101/ssh101/pksportshd/chunks.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Cricket 
+https://7nyaler.streamhostingcdn.top/stream/10/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sky cricket 
 https://leaf.highfly.dev/m3u/now-sky-sports-cricket/live.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Fox 501 
