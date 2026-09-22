@@ -41,12 +41,6 @@ https://playztv-apps.pages.dev/a-sports/index.m3u8
 https://live20.bozztv.com/akamaissh101/ssh101/pksportshd/chunks.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow_Sports HD
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", A Sports HD  Playztv-apps
-https://playztv-apps.pages.dev/asports/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Playztv-apps
-https://playztv-apps.pages.dev/willow/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 1 HD 
-https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ten_1_HD_ HD 
 https://stream.ottplus.live/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ten_2_HD_ HD 
@@ -54,23 +48,11 @@ https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ten_5_HD_ HD 
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",PTV Sports HD B
-https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785582200018
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T SPORTS HD
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Ten Cricket
-https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",TNT Sports 3 HD
-https://7nyaler.streamhostingcdn.top/stream/60/master.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports HD
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Ten Cricket HD
-https://s2.itcnbd.live/server-2/stream/ten_cricket.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Pk Sports  HD
-https://lbgo.bozztv.com/ssh101/ssh101/pksportshd/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD
 https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785582200018
 
@@ -85,6 +67,7 @@ https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
 https://tvsen5.aynaott.com/willowhd/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Euro Sports HD
 https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 2
