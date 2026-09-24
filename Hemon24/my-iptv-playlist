@@ -35,6 +35,22 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 
+
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", WILLOW 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fbb11f58d670ba448625bee36773fff:76e8bd546a74e60598e1d59df0b9b3cc
+https://abfjk4haaaaaaaamkitc5445rybm6.bia-cf.live.pv-cdn.net/iad-nitro/live/clients/dash/enc/docqurfrc3/out/v1/1804c33d898a48cb988e15cca0199512/cenc.mpd
+
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", Willow-HD QUALITY + LIVE
+#EXTVLCOPT:http-referrer=https://nadia01eo.tn76degree12ec3out.cfd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 15; motorola edge 50 fusion Build/V2UUI35.39-21-7-5-1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
+https://fhlsport954.tm3drop33weeps.ru/token-IU4un7GWK%2FeGvjMul%2FY6kTqBlMDS1n%2FjZHeiwKNIFTKk5rOYHUFbA5QtqRJWWkgGRXvc3zVnmv9zfZBKXEAY%2F4o%2BTUmxMIWza/cfall/s2001/v3b/52188oq1nUE0pQbiY3OfLKxhZGO4p3EgZv50o3N%3D/hedy/sx_828401/index.m3u8
+
+#EXTINF:-1 tvg-logo=" " group-title="Cricket 🏏", SonyLiv (Asia)
+#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:155.0) Gecko/20100101 Firefox/155.0
+https://sonymtmnew-akamaized.pages.dev/hls/live/2120299/AG2026_D2309/ENG/master.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",PK Sports HD
