@@ -64,6 +64,8 @@ https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
 https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD
+http://103.151.60.162:2122/play/a030/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports
