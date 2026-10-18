@@ -35,7 +35,9 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Siyatha tv Tri Seri(PAK, ENG & Sri Lanka)
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Nagorik  Tri Series
+https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Siyatha tv Tri Series  (PAK, ENG & Sri Lanka)
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", STAR SPORTS 1 HD
 http://198.195.239.50:8095/STAR.SPORTS1.HD/index.m3u8
