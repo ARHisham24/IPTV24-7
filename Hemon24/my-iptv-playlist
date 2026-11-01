@@ -47,11 +47,11 @@ https://stream.spicefmbd.com/stream.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports 
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Ten Cricket
-https://drk6xq0vhn.gpcdn.net/live/ten_cricket_hd_abr/index.m3u8
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Ten Sports
+https://live.msnetworks.net/ten-sports/master.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Nagorik  Tri Series
 https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Siyatha tv Tri Series  (PAK, ENG & Sri Lanka)
+#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Siyatha tv 
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T SPORTS HD (🇧🇩 Vs West indesh)
 http://103.135.253.32:8080/T-SPORTS-FULL-HD/tracks-v1a1/mono.m3u8
