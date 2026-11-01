@@ -85,12 +85,7 @@ http://27.124.71.27/beIN_Sports_1/index.m3u8
 http://103.135.253.32:8080/WILLOW-SPORTS/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Football
 http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Sports 2
-https://tvsen7.aynaott.com/Sports1/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Talk Sport
-https://tvsen6.aynaott.com/talkSPORT/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow_TV
-https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",PTV Sports
@@ -104,24 +99,8 @@ http://51.75.127.199:3141/eurosport/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 1
 https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 1 Hindi
-https://starsportshindiii.pages.dev/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 2 Hindi (720p)
-https://tvsen5.aynaott.com/cXPB2LKkErN9/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports SL 1
-https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports SL 2
-https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",T Sports HD
-http://103.151.60.162:2122/play/a030/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Trace Sport Stars
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports
-https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
@@ -143,46 +122,6 @@ https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV Sports HD
 https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8?nocache=1785582200018
-
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T Sports HD
-https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", PTV
-https://tvsen7.aynascope.net/zY3hJ7pQ2vM5gD8s/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports HD
-https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports
-https://tvsen5.aynaott.com/willowhd/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Euro Sports HD
-https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/index.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 1
-https://flussonic.defineatoz.com/Starsports1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports 2
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports SL 1
-https://flussonic.defineatoz.com/starsportsselect1/tracks-v1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Star Sports SL 2
-https://flussonic.defineatoz.com/starsportsselect2sw/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Ten 1
-https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_720/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sony Ten 2
-https://drk6xq0vhn.gpcdn.net/live/ten_2_hd_720/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Sony Ten 5
-https://drk6xq0vhn.gpcdn.net/live/ten_5_hd_720/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Bein Sports 1
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Bein Sports 2
-https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Bein Sports 3
-https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Bein Sports 4
-https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Bein Sports 5
-https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Mundial
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-
 
 #EXTINF:-1 tvg-id="DAZN FAST.de" tvg-logo="https://epg.ovh/logo/DAZN+Fast.png" group-title="Cricket 🏏",DAZN FAST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
