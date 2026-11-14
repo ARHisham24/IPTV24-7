@@ -97,10 +97,8 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 
 ########################## Football 🛜 ##########################
-#EXTINF:-1 tvg-logo="" group-title="Football", Unite8-Sports-1 HD
-http://103.205.132.29:8081/Unite8-sports-1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", Unite8-Sports-2 HD
-http://103.205.132.29:8081/Unite8-sports-2/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", UEFA TV Football
+https://live-manifest.production-public.tubi.io/live/d846008d-b608-4ddf-931c-48e9b60bf6c5/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Tapmad Football
 https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/level_0.m3u8
 #EXTINF:-1 tvg-logo="https://placehold.co/800x450/0f172a/ffffff.png?text=Fubo+Sports&font=Oswald" group-title="Football", Fubo Sports
@@ -147,10 +145,6 @@ https://otte-netskrt.live.pv-cdn.net/lhr-nitro/live/clients/dash/enc/vkpoljjpkj/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Football",A SPOR
 https://billowing-dawn-ee85.opkawsar156.workers.dev/?url=https%3A%2F%2Frnttwmjcin.turknet.ercdn.net%2Flcpmvefbyo%2Faspor%2Faspor_1080p.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", Bein Sports Direct HD
-http://145.239.5.177/557a/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Football", QAZ Sports HD
-http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Mundial Sports HD
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football",MuxIP-SportsFirst TV🎯
@@ -159,11 +153,6 @@ https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xSjB51j/aspor.png" group-title="Football",A SPOR
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/3WmLjwG/trtspor22c.png" group-title="Football",Shol Sports
-https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Football",Bein Sports 1🎯
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Football", Real Madrid tv Football 
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
