@@ -44,30 +44,35 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", T Sports
+https://playztv-apps.pages.dev/unite8-sports-2/index.m3u8
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", T-SPORTS HD
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Willow TV
+https://playztv-apps.pages.dev/willow-tv/index.m3u8
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Willow Sports HD (PAK VS SL)
+https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Willow Sports 2 
+https://tvsen7.aynaott.com/Sports1/index.m3u8
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", A Sports
+https://playztv-apps.pages.dev/a-sports/index.m3u8
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", PTV Sports
+https://playztv-apps.pages.dev/ptv-sports/index.m3u8
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Ten Cricket
+https://iptvlive.ahmed-bd-org.workers.dev/ten-cricket-1/index.m3u8
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Bein Sports 1
+https://playztv-apps.pages.dev/bein-sports-1/index.m3u8
 
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", BTV HD
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Ten Cricket U-19 Asia Cup: Final India vs. Pakistan
-https://iptvlive.ahmed-bd-org.workers.dev/ten-cricket-1/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",PTV Sports HD (PAK VS SL)
-https://live.msnetworks.net/ptv-sports/master.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports HD (PAK VS SL)
-https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports HD (PAK VS SL)
-https://playztv-apps.pages.dev/willow-tv/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", T-SPORTS HD
-https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Sports
 https://tvsen7.aynaott.com/rEBp38Ax/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Sports
 https://tvsen5.aynaott.com/willowhd/index.m3u8#fb:M3U_World_4K?_hls_ts=1793851861409
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Sports
-https://tvsen5.aynaott.com/willowhd/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow Sports 2 
-https://tvsen7.aynaott.com/Sports1/index.m3u8
+
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports 
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports 
@@ -79,19 +84,6 @@ https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Bein Sports 1
 http://27.124.71.27/beIN_Sports_1/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Willow Sports
-http://103.135.253.32:8080/WILLOW-SPORTS/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Sky Sports Football
-http://2756d46c.akciatv.ru/iptv/7FRNF6CY9A9TG3/9289/index.m3u8
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports
-https://playztv-apps.pages.dev/a-sports/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",PTV Sports
-https://playztv-apps.pages.dev/ptv-sports/index.m3u8
-
-
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",A Sports
-https://playztv-apps.pages.dev/a-sports/index.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Willow_Sports HD
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 #EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",DD SPORTS
