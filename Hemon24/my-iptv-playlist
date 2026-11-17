@@ -9,41 +9,35 @@
 #=================================
 
 ################################################### Cricket 🏏 ####################################################
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/TMxTpz2q/images.png", BTV HD
+#EXTINF:-1 group-title="News & Others" tvg-logo="https://i.ibb.co.com/TMxTpz2q/images.png", BTV HD
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/cXTjmmtP/Star-News.png",Al-Jazeera HD 🇧🇩
+#EXTINF:-1 group-title="News & Others" tvg-logo="https://i.ibb.co.com/cXTjmmtP/Star-News.png",Al-Jazeera HD 🇧🇩
 https://j6nfugukcl.gpcdn.net/tile_7/master.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",CNA News
+#EXTINF:-1 group-title="News & Others" tvg-logo=" ",CNA News
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",CNBC TV
+#EXTINF:-1 group-title="News & Others" tvg-logo=" ",CNBC TV
 https://tvsen6.aynaott.com/cnbc/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Iran News
+#EXTINF:-1 group-title="News & Others" tvg-logo=" ", Iran News
 https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", DW News HD
+#EXTINF:-1 group-title="News & Others" tvg-logo=" ", DW News HD
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", CNN HD
+#EXTINF:-1 group-title="News & Others" tvg-logo=" ", CNN HD
 https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png",Channel 1 News HD 🇧🇩
-https://drk6xq0vhn.gpcdn.net/live/channel_1_hd_abr/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png",Channel 1 News HD 🇧🇩
-https://zibo1.tvhunter.top/onebd/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/N6HbH5rH/Channel-One-TV.png",Somoy News HD 🇧🇩
-https://drk6xq0vhn.gpcdn.net/live/somoy_tv_abr/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", 4K HD TV
+#EXTINF:-1 group-title="News & Others" tvg-logo=" ", 4K HD TV
 https://live-aburayhan1103.telewebion.ir/ek/faratar/live/playlist.m3u8?isp=NA&city=NA
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",G Series Drama 🇧🇩
+#EXTINF:-1 group-title="News & Others" tvg-logo=" ",G Series Drama 🇧🇩
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
 
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Saudi TV
+#EXTINF:-1 group-title="News & Others" tvg-logo=" ", Saudi TV
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ", Saudia Arabia
+#EXTINF:-1 group-title="News & Others" tvg-logo=" ", Saudia Arabia
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",Live Quran TV 🎯 📡
+#EXTINF:-1 group-title="News & Others" tvg-logo=" ",Live Quran TV 🎯 📡
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo=" ",WAZ TV 🎯 📡
+#EXTINF:-1 group-title="News & Others" tvg-logo=" ",WAZ TV 🎯 📡
 https://tplay.live/originals/ilm-tv/index.m3u8
-#EXTINF:-1 group-title="Cricket 🏏" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
+#EXTINF:-1 group-title="News & Others" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", T Sports
@@ -87,9 +81,9 @@ http://27.124.71.27/beIN_Sports_1/index.m3u8
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏", Redbull TV
+#EXTINF:-1 tvg-logo="" group-title="News & Others", Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket 🏏",Motor Vision
+#EXTINF:-1 tvg-logo="" group-title="News & Others",Motor Vision
 https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 
