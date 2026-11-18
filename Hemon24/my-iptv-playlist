@@ -55,8 +55,10 @@ https://tvsen7.aynaott.com/rEBp38Ax/tracks-v1a1/mono.ts.m3u8
 https://tvsen7.aynaott.com/Sports1/index.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", A Sports
 https://playztv-apps.pages.dev/a-sports/index.m3u8
-#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", PTV Sports
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", PTV Sports HD
 https://playztv-apps.pages.dev/ptv-sports/index.m3u8
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", PTV Sports HD
+https://live.msnetworks.net/ptv-sports/master.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Ten Cricket
 https://iptvlive.ahmed-bd-org.workers.dev/ten-cricket-1/index.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Bein Sports 1
