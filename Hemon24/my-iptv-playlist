@@ -127,6 +127,12 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 ########################## Football 🛜 ##########################
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Live Events", FOX 2 SPORTS FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYrPSRfp/images-2.jpg" group-title="Live Events", SKY TOP EVENT FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
