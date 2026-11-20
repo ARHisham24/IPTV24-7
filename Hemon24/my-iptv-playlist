@@ -111,10 +111,16 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/avqlywnuzx/out/v1
 #KODIPROP:inputstream.adaptive.license_key=82dfca238e8c4b430a3269db71965db9:a00b28caf4ac628e77a553d440c0ddca
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/b3b3fkmrbl/out/v1/1084d5c9a97a4c5b9f9554c88f486646/cenc.mpd
 
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Sky Sport Cricket
+https://bl.rutube.ru/livestream/7c13a51576b9ff2601f08f5d57dd5169/index.m3u8?s=uiXES2ePt7xTpQnbJxn7Dg&e=2074684474&scheme=https|user-agent=Mozilla
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",TNT Sport 1
+https://tvsen5.aynaott.com/asdfadsf/index.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", এশিয়া কাপ রাইজিং স্টারস সনি স্পোর্টস 2
 https://s3.itcnbd.live/server-12/stream/Mjk.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Sony Ten 5
 https://s3.itcnbd.live/server-12/stream/MTAx.m3u8
+#EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Sony Ten 3 Hindi
+https://r2.amml.in/sony-ten-3-hd/live.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", Australia vs England Tapmad
 https://t-prod-bd.tapmad.com/v1/01a14a9fb90c15fc60e91e1786b061/01a14a9feb881ea540a81c2b41b75e/main.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Ten Sports
@@ -229,6 +235,8 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/cscevwljkq/out/v1
 
 #EXTINF:-1 tvg-logo="" group-title="Football", FIFA TV TV Football
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Football", FIFA+ Women
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", UEFA TV Football
 https://live-manifest.production-public.tubi.io/live/d846008d-b608-4ddf-931c-48e9b60bf6c5/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Tapmad Football
