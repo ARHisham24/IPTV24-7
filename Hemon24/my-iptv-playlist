@@ -11,6 +11,10 @@
 ################################################### (Cricket 🏏) ####################################################
 #EXTINF:-1 group-title="News & Others" tvg-logo="https://i.ibb.co.com/TMxTpz2q/images.png", BTV HD
 https://nkafmbewiff.gpcdn.net/tile_2/master.m3u8
+#EXTINF:-1 group-title="News & Others" tvg-logo="https://i.ibb.co.com/fYYrxKHh/svg.png",সময় টিভি
+https://toffee.sm-monirul-islam-rs.workers.dev/somoy_tv/index.m3u8
+#EXTINF:-1 group-title="News & Others" tvg-logo="https://i.ibb.co.com/kr61rgp/images.jpg",Star News BD
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/starnewsbd.stream/playlist.m3u8
 #EXTINF:-1 group-title="News & Others" tvg-logo="https://i.ibb.co.com/cXTjmmtP/Star-News.png",Al-Jazeera HD 🇧🇩
 https://j6nfugukcl.gpcdn.net/tile_7/master.m3u8
 #EXTINF:-1 group-title="News & Others" tvg-logo=" ",CNA News
@@ -100,6 +104,8 @@ https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 
 ########################## Football 🛜 ##########################
+#EXTINF:-1 tvg-logo="" group-title="Football", FIFA TV TV Football
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", UEFA TV Football
 https://live-manifest.production-public.tubi.io/live/d846008d-b608-4ddf-931c-48e9b60bf6c5/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Football", Tapmad Football
