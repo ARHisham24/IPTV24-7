@@ -44,13 +44,13 @@ https://tplay.live/originals/ilm-tv/index.m3u8
 #EXTINF:-1 group-title="News & Others" tvg-logo="https://i.ibb.co.com/4mjS8hB/download-1.png", স্পাইস FM Radio 📻 মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 https://stream.spicefmbd.com/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/S4QmmsNB/images-1.jpg" group-title="Live Cricket", PREMIER 1 SPORTS FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket", PREMIER 1 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
 https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bcj3iscpd6/out/v1/fcd137b391214f7cb99dd4d7be90ca87/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/S4QmmsNB/images-1.jpg" group-title="Live Cricket",  PREMIERE 2 SPORTS FHD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png" group-title="Live Cricket",  PREMIERE 2 SPORTS FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a5df53609ebc9857898c490f4724918:77f62980d582ec541280796acf8b2d19
