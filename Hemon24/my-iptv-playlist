@@ -46,6 +46,11 @@ https://stream.spicefmbd.com/stream.m3u8
 
 
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/sm-monirulislam/Upcoming-and-Live-Sports-Data/main/match_image/Men%27s%20Asia%20Cup%20Vs%20Rising%20Stars%202026.jpg" group-title="Live Cricket", Men's Asia Cup Vs Rising Stars 2026 - STARZPLAY FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ae4f162eec3e6f2b580a5bf0f4a64d4:03483335db81cba5bbcf51b6d31196d9
+https://d1ifzl5cnhi7bu.cloudfront.net/out/v1/45ba30e075ad455a8767d3f33e67ea3d/index.mpd
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png", এশিয়া কাপ রাইজিং স্টারস সনি স্পোর্টস 2
 https://s3.itcnbd.live/server-12/stream/Mjk.m3u8
 #EXTINF:-1 group-title="Live Cricket" tvg-logo="https://i.ibb.co.com/23MR9Jqj/images.png",Sony Ten 5
