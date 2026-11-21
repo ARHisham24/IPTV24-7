@@ -454,7 +454,7 @@ https://playztv-apps.pages.dev/dbc-news/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Sesh-TV
 https://playztv-apps.pages.dev/desh-tv/index.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",duronto-tv
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Duronto-tv
 https://playztv-apps.pages.dev/duronto-tv/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Ekattor-tv
@@ -463,36 +463,25 @@ https://playztv-apps.pages.dev/ekattor-tv/index.m3u8
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Gazi_tv
 https://playztv-apps.pages.dev/gazi_tv/index.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",jamuna-tv
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Jamuna-tv
 https://playztv-apps.pages.dev/jamuna-tv/index.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",maasranga-tv
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",Maasranga-tv
 https://playztv-apps.pages.dev/maasranga-tv/index.m3u8
 
 #EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",my-tv
 https://playztv-apps.pages.dev/my-tv/index.m3u8
 
-#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",ntv
+#EXTINF:-1 group-title="Bangladeshi 🇧🇩" tvg-logo=" ",NTV
 https://playztv-apps.pages.dev/ntv/index.m3u8
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Duck TV
-https://d2lmgfyblo9rak.cloudfront.net/playlist.m3u8
+
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Jungle Book
 https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Nick
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/DZ4NwNWZ/Nick.jpg",Sony YAY
-https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",PBS Kids
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/zBCLNtGZ/Duronto.jpg",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",Spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/ubZMeQv.jpg",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg"YTV
-https://ddy6new.newkso.ru/ddy6/premium286/mono.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.postimg.cc/FFwSjdzS/Pogo.jpg",Zoo Moo
